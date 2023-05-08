@@ -50,7 +50,4 @@ Et si vous désirez n'importer qu'un seul widget exemple de `button.css` il faud
 Pour voir un apercu de tous les widgets [cliquer ici !](https://gaetan26.github.io/Custom-Widgets/)
 
 ## Moi 😀💻📠
-[Email](#)
-    <a mailto="gaetansg26@gmail.com">Email</a
-[LinkedIn](#)
-[Instagram](#)
+[Email](mailto:gaetansg26@gmail.com)
