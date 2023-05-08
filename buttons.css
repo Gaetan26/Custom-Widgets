@@ -1,0 +1,95 @@
+.btn-rectangle-fill {
+    border: 3px #0082e6 solid;
+    background: #0082e6;
+    box-shadow: 0 0 0 0px #0082e66e;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+
+.btn-rectangle-fill:hover {
+    background: transparent;
+    color: #0082e6;
+    transition: .3s;
+}
+
+.btn-rectangle {
+    border: 3px #0082e6 solid;
+    background: transparent;
+    box-shadow: 0 0 0 0px #0082e66e;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #0082e6;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+
+.btn-rectangle:hover {
+    background: #0082e6;
+    color: #fff;
+    transition: .3s;
+}
+
+.btn-rounded {
+    border: 3px #0082e6 solid;
+    background: transparent;
+    box-shadow: 0 0 0 0px #0082e66e;
+    padding: 10px 16px;
+    border-radius: 36px;
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #0082e6;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+
+.btn-rounded:hover {
+    background: #0082e6;
+    color: #fff;
+    transition: .3s;
+}
+
+.btn-rounded-fill {
+    border: 3px #0082e6 solid;
+    background: #0082e6;
+    box-shadow: 0 0 0 0px #0082e66e;
+    padding: 10px 16px;
+    border-radius: 36px;
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+}
+
+.btn-rounded-fill:hover {
+    background: transparent;
+    color: #0082e6;
+    transition: .3s;
+}
+
+.btn-rectangle:focus,
+.btn-rectangle-fill:focus,
+.btn-rounded:focus,
+.btn-rounded-fill:focus {
+    box-shadow: 0 0 0 3px #0082e66e;
+    transition: .3s;
+}

@@ -1,0 +1,28 @@
+p.text {
+    font-family: 'Open Sans';
+    font-size: 18px;
+}
+
+p.text a {
+    color: #0082e6;
+}
+
+h1.text,
+h2.text,
+h3.text {
+    font-family: 'Ubuntu';
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 18;
+}
