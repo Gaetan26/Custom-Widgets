@@ -47,7 +47,7 @@ Pour importer Custom Widgets le fichier `widgets.css` est le fichier à importer
 Et si vous désirez n'importer qu'un seul widget exemple de `button.css` il faudra en plus d'importer `button.css` importer `fonts.css` qui s'occupe d'importer les polics personnalisées utlisées par les widgets.
 
 # Un apercu de tous les widgets
-Pour voir un apercu de tous les widgets [cliquer ici !](#)
+Pour voir un apercu de tous les widgets [cliquer ici !](https://gaetan26.github.io/Custom-Widgets/widgets.css)
 
 ## Moi 😀💻📠
 [Email](#) 
