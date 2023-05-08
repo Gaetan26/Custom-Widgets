@@ -1,6 +1,8 @@
 # Custom Widgets
 `Custom Widgets` est une suite de widgets personnalisés uploader dans ce dépot _GitHub_ pour leur permettre d'être accesible sour tous _(mes)_ projets web dépuis un simple lien: __un peu comme Bootstrap__
 
+Lien d'importation 👉🏾 `https://gaetan26.github.io/Custom-Widgets/widgets.css`
+
 ## Widgets
 ### Buttons
 `buttons.css` définie les widgets `button` avec quatres model de widget button:
